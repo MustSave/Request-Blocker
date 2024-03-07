@@ -17,7 +17,7 @@ This extension is useful for users who want to limit their access to certain web
 
 To install the URL Blocker Chrome extension, follow these steps:
 
-1. Download the extension files from [GitHub repository](https://github.com/yourusername/url-blocker).
+1. Download the extension files from [GitHub repository](https://github.com/mustsave/request-blocker).
 2. Open Google Chrome browser.
 3. Go to `chrome://extensions/`.
 4. Enable "Developer mode" by toggling the switch in the top-right corner.
