@@ -1,6 +1,6 @@
 chrome.webRequest.onBeforeRequest.addListener(
     function(details) {
-      if (isBlocked(details.url.split("/").at(-1))) {
+      if (isBlocked(details.url)) {
         return { cancel: true };
       }
     },
